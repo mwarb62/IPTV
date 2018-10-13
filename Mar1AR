@@ -275,14 +275,525 @@ http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4358.ts
 http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4356.ts
 #EXTINF:-1,USA: SYFY
 http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4385.ts
-#EXTINF:-1,########## ARAB ##########
-#EXTINF:-1,~ Arabic News ~
-http://192.99.35.215:5109/stream
-#EXTINF:-1,Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,Deutsche Welle
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1,NRT
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1,**********Islam**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36483.ts
+#EXTINF:-1,AR: KAIFA
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68162.ts
+#EXTINF:-1,AR: MOHAMMAD RASOUL ALLAH
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67939.ts
+#EXTINF:-1,AR: Wesal TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64133.ts
+#EXTINF:-1,AR: ALMAJD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22385.ts
+#EXTINF:-1,AR: ALMAJD HADEETH
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23104.ts
+#EXTINF:-1,AR: ALMAJD QRAAN
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22417.ts
+#EXTINF:-1,AR: almajd 08
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68072.ts
+#EXTINF:-1,AR: BIN OTHAIMEEN
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68071.ts
+#EXTINF:-1,AR: Makkah TV HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23097.ts
+#EXTINF:-1,AR: AL-RASLA
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22393.ts
+#EXTINF:-1,AR:IQRAA
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24922.ts
+#EXTINF:-1,AR: IQRAA
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22394.ts
+#EXTINF:-1,AR: Alfath Quran
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66271.ts
+#EXTINF:-1,AR: Almajd Scientific
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/55360.ts
+#EXTINF:-1,AR: Quran Hidayah English TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66272.ts
+#EXTINF:-1,AR: RESALAT ALESLAM
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23099.ts
+#EXTINF:-1,AR: SAUDI QRAAN
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23101.ts
+#EXTINF:-1,AR: SAUDI SUNA
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23100.ts
+#EXTINF:-1,AR: Sharjah TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22410.ts
+#EXTINF:-1,**********Tunisia**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36485.ts
+#EXTINF:-1,AR: Tunisia nat1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22362.ts
+#EXTINF:-1,AR: Tunisia nat2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22361.ts
+#EXTINF:-1,AR: Tunisia
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22360.ts
+#EXTINF:-1,AR: Al Insen TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68168.ts
+#EXTINF:-1,AR: AL JANOUBIA TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68167.ts
+#EXTINF:-1,AR: AL-MUSTAKILA
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68166.ts
+#EXTINF:-1,AR: Attessia TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68165.ts
+#EXTINF:-1,AR: Carthage
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68163.ts
+#EXTINF:-1,AR: Telvza TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/68164.ts
+#EXTINF:-1,AR: Zaytona tv
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22358.ts
+#EXTINF:-1,AR: EL-Hiwar Ettounsie
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22357.ts
+#EXTINF:-1,AR: NESMAA TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22344.ts
+#EXTINF:-1,AR: Hannibal TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22364.ts
+#EXTINF:-1,AR: M Ettounsia 9 TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22359.ts
+#EXTINF:-1,**********Libya**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36494.ts
+#EXTINF:-1,AR: Libya Tv
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22240.ts
+#EXTINF:-1,AR: Libya 218
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24977.ts
+#EXTINF:-1,AR: Libya 24
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24979.ts
+#EXTINF:-1,AR: Libya Elwatan
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24980.ts
+#EXTINF:-1,AR: Libya-alhadath
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24981.ts
+#EXTINF:-1,AR: TeleLiban
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22489.ts
+#EXTINF:-1,**********Egypt**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36481.ts
+#EXTINF:-1,AR: AlNahar drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22284.ts
+#EXTINF:-1,AR: AlQahera W Elnas 1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22471.ts
+#EXTINF:-1,AR: AlQahera W Elnas 2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22470.ts
+#EXTINF:-1,AR: Cbc Cofra HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22460.ts
+#EXTINF:-1,AR : ON Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67938.ts
+#EXTINF:-1,AR: Cbc Drama HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22461.ts
+#EXTINF:-1,AR: Cbc extra HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22462.ts
+#EXTINF:-1,AR: CBC HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22463.ts
+#EXTINF:-1,AR: Cbc Sefraa
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/11506.ts
+#EXTINF:-1,AR: CTV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22303.ts
+#EXTINF:-1,AR: ON  E
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67937.ts
+#EXTINF:-1,AR: Sada ElBalad Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67936.ts
+#EXTINF:-1,AR:Sada El Balad
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67935.ts
+#EXTINF:-1,AR: Me Sat
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64976.ts
+#EXTINF:-1,AR: Miracle1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22312.ts
+#EXTINF:-1,**********Syria**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36491.ts
+#EXTINF:-1,AR: NOUR SAT
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22322.ts
+#EXTINF:-1,AR: Halab Today
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22476.ts
+#EXTINF:-1,AR: Sama Syriaa
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22480.ts
+#EXTINF:-1,AR: Syria  Medical
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22478.ts
+#EXTINF:-1,AR: Syria Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22479.ts
+#EXTINF:-1,AR: SYRIA NIEWS
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23284.ts
+#EXTINF:-1,AR: Syria tv
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22481.ts
+#EXTINF:-1,***********Lebanon**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64978.ts
+#EXTINF:-1,AR: OTV Lebanon
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22487.ts
+#EXTINF:-1,AR: LBC HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22483.ts
+#EXTINF:-1,AR: LDC
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22482.ts
+#EXTINF:-1,AR: Nbn HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22484.ts
+#EXTINF:-1,AR: Alan
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22228.ts
+#EXTINF:-1,AR: Aljadeed
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22490.ts
+#EXTINF:-1,AR: Dmc Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22473.ts
+#EXTINF:-1,AR: DMC HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22474.ts
+#EXTINF:-1,AR: Future tv
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22485.ts
+#EXTINF:-1,**********Sudan**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36492.ts
+#EXTINF:-1,AR: Sudan TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36497.ts
+#EXTINF:-1,AR: Sudan 2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/62745.ts
+#EXTINF:-1,AR: Sudan 24
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/62742.ts
+#EXTINF:-1,AR: Sudan 3
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/62744.ts
+#EXTINF:-1,AR: Sudan 4
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/62743.ts
+#EXTINF:-1,AR: Ashorooq Sudan
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36495.ts
+#EXTINF:-1,AR: Blue Nile Sudan
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36496.ts
+#EXTINF:-1,AR: Sudan Neelain Sport HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64980.ts
+#EXTINF:-1,AR: SUDAN SPORT
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64982.ts
+#EXTINF:-1,AR: SUDAN BLUE NILE
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64984.ts
+#EXTINF:-1,AR: Sudan Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64983.ts
+#EXTINF:-1,AR: Sudan Drama HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/62741.ts
+#EXTINF:-1,AR: Sudan TV (Somalia)
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/62740.ts
+#EXTINF:-1,AR: SUDAN MUSIC
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64979.ts
+#EXTINF:-1,AR: SUDAN Om Dorman
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64981.ts
+#EXTINF:-1,AR: Sudania24
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36498.ts
+#EXTINF:-1,**********Cartoon**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/55359.ts
+#EXTINF:-1,OSN: DISNEY  HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26585.ts
+#EXTINF:-1,OSN:DISNEY XD HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26584.ts
+#EXTINF:-1,OSN:NICK JR HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26558.ts
+#EXTINF:-1,OSN:NICKOLODIAN HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26557.ts
+#EXTINF:-1,AR: AHEL ALQURAN
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66273.ts
+#EXTINF:-1,AR: Baraem
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22499.ts
+#EXTINF:-1,AR: Cartoon Network
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22492.ts
+#EXTINF:-1,AR: Semsem kids
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22500.ts
+#EXTINF:-1,AR: Spacetoon L
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22495.ts
+#EXTINF:-1,AR: Touyour Baby HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22501.ts
+#EXTINF:-1,AR: TOYOR ALJANNAH
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/56046.ts
+#EXTINF:-1,AR: MBC 1 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22518.ts
+#EXTINF:-1,AR: MBC 2 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22517.ts
+#EXTINF:-1,AR: MBC 3 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22516.ts
+#EXTINF:-1,AR: MBC 4 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22515.ts
+#EXTINF:-1,AR: MBC Action HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22512.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22538.ts
+#EXTINF:-1,AR: MBC Drama HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22514.ts
+#EXTINF:-1,AR: MBC Maser 1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22511.ts
+#EXTINF:-1,AR: MBC Masr 2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22510.ts
+#EXTINF:-1,AR: MBC MAX HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22513.ts
+#EXTINF:-1,AR: MBC VARIETY HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23114.ts
+#EXTINF:-1,AR: MBC+Drama HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24564.ts
+#EXTINF:-1,AR: GM Alwan HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66311.ts
+#EXTINF:-1,AR: GM Comedia
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22534.ts
+#EXTINF:-1,AR: GM Movies HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66307.ts
+#EXTINF:-1,AR: GM Techno
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66312.ts
+#EXTINF:-1,AR: Gm chaabi
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22535.ts
+#EXTINF:-1,AR: GM Music HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66310.ts
+#EXTINF:-1,AR: Gm rap arab
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22529.ts
+#EXTINF:-1,AR: Gm tamazight
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22528.ts
+#EXTINF:-1,AR: Rotana clip
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22257.ts
+#EXTINF:-1,AR: AR: Aghani TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22502.ts
+#EXTINF:-1,AR: Arabica TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24975.ts
+#EXTINF:-1,AR: Mazzika
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22233.ts
+#EXTINF:-1,AR: Music alremas
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22310.ts
+#EXTINF:-1,AR: Rotana Classic HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22504.ts
+#EXTINF:-1,AR: Rotana Khalijia HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22503.ts
+#EXTINF:-1,AR: Rotana muisc HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22254.ts
+#EXTINF:-1,AR: Panorama Drama1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22431.ts
+#EXTINF:-1,AR: Panorama Film
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22432.ts
+#EXTINF:-1,AR: Panorma Comedy
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22429.ts
+#EXTINF:-1,AR: Panorma Drama2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22430.ts
+#EXTINF:-1,AR: Cinema Pro
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22278.ts
+#EXTINF:-1,AR: fox movise Family
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24637.ts
+#EXTINF:-1,AR: Nile Cinema
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22447.ts
+#EXTINF:-1,AR: Nile Comedy
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22445.ts
+#EXTINF:-1,AR: NILE Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22446.ts
+#EXTINF:-1,AR: Rotana  Masriya HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23472.ts
+#EXTINF:-1,AR: Rotana Aflam HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22507.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22258.ts
+#EXTINF:-1,AR: Rotana Cinema HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22506.ts
+#EXTINF:-1,AR: Rotana Drama HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22255.ts
+#EXTINF:-1,AR: MTV_LEBONON
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22488.ts
+#EXTINF:-1,AR: Rotana Clasic
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22238.ts
+#EXTINF:-1,AR: ROTANA KHALIJIAH HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22256.ts
+#EXTINF:-1,AR: Zee Aflam
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22403.ts
+#EXTINF:-1,AR: Zee Alwan HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22404.ts
+#EXTINF:-1,AR:ART Aflam1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24617.ts
+#EXTINF:-1,AR:ART Aflam2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24618.ts
+#EXTINF:-1,AR: Aflam TV 7 Maroc
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66267.ts
+#EXTINF:-1,AR: ART Hekayat2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24616.ts
+#EXTINF:-1,AR: B4U Aflam
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22406.ts
+#EXTINF:-1,AR: B4U Plus HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22405.ts
+#EXTINF:-1,**********Emirates**********
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/36487.ts
+#EXTINF:-1,AR: Dubai Noor
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/48224.ts
+#EXTINF:-1,AR: Dubai One
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22412.ts
+#EXTINF:-1,AR: Dubai TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22413.ts
+#EXTINF:-1,AR: Dubai Zaman
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22276.ts
+#EXTINF:-1,AR: Sama Dubai
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22411.ts
+#EXTINF:-1,AR: Noor Dubai
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22414.ts
+#EXTINF:-1,AR: ABU DHABI TV HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22408.ts
+#EXTINF:-1,AR: Fx HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24640.ts
+#EXTINF:-1,OSN:ALFA CINEMA 1 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22214.ts
+#EXTINF:-1,OSN:ALFA CINEMA 2 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22213.ts
+#EXTINF:-1,OSN:ALFA MUSALSALAT 2 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22211.ts
+#EXTINF:-1,OSN:BLOOMBERG NEWS HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22208.ts
+#EXTINF:-1,OSN:BOX OFFICE 2 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26589.ts
+#EXTINF:-1,OSN:CRIME & INVISTIGATION HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26586.ts
+#EXTINF:-1,OSN:E! PREMIRE HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26583.ts
+#EXTINF:-1,OSN:FASHION HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26582.ts
+#EXTINF:-1,OSN:FOX FAMILEY HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26575.ts
+#EXTINF:-1,OSN:FX HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26573.ts
+#EXTINF:-1,AR: OSN First Home Of HBO
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26572.ts
+#EXTINF:-1,OSN:MOVIE ACTION HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26568.ts
+#EXTINF:-1,OSN:MOVIE FAMILY HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26565.ts
+#EXTINF:-1,OSN:MOVIE PREMIERA HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26563.ts
+#EXTINF:-1,OSN:MOVIES FESTIVAL HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26562.ts
+#EXTINF:-1,OSN:MOVIES PREMIERE HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26560.ts
+#EXTINF:-1,OSN:ON DEMAND 1 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26556.ts
+#EXTINF:-1,OSN:ON DEMAND 3 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26554.ts
+#EXTINF:-1,OSN:OSN CNBC AR
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26553.ts
+#EXTINF:-1,OSN:SEEVII  BEELINK HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26550.ts
+#EXTINF:-1,AR: OSN SeeVii DRAMA HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26548.ts
+#EXTINF:-1,OSN:STAR MOVIES HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26542.ts
+#EXTINF:-1,OSN:SYFY  HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26540.ts
+#EXTINF:-1,OSN:YA HALA Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26537.ts
+#EXTINF:-1,OSN:YA HALA HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26536.ts
+#EXTINF:-1,OSN: YaHala AlOula 2 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26535.ts
+#EXTINF:-1,AR: Sada El Balad Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22435.ts
+#EXTINF:-1,AR: STAR CINEMA 1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22466.ts
+#EXTINF:-1,AR: Star Cinema1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22454.ts
+#EXTINF:-1,AR: Hona BAGHDAD TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22378.ts
+#EXTINF:-1,AR:  AlForat
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22369.ts
+#EXTINF:-1,AR: AL SHARQIYA
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22375.ts
+#EXTINF:-1,AR:  ALMAHER
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64448.ts
+#EXTINF:-1,AR:  beIN Junior
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22234.ts
+#EXTINF:-1,AR: AGHAPY
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64975.ts
+#EXTINF:-1,AR: Al Forat
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22226.ts
+#EXTINF:-1,AR: AL Hayat 2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22439.ts
+#EXTINF:-1,AR: AL Hayat Muslsalat
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22438.ts
+#EXTINF:-1,AR: AL Nahar  Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22402.ts
+#EXTINF:-1,AR: Al-Nahar Drama
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22426.ts
+#EXTINF:-1,AR: ALAAN HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/23113.ts
+#EXTINF:-1,AR: AlAfasy TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22230.ts
+#EXTINF:-1,AR: ALARABY HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22889.ts
+#EXTINF:-1,AR: AlHayat 2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22309.ts
+#EXTINF:-1,AR: ALHYAT 2 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22464.ts
+#EXTINF:-1,AR: ISHTAR TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/62202.ts
+#EXTINF:-1,AR: AlSharqiya TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/65441.ts
+#EXTINF:-1,AR: BAHRAIN TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22339.ts
+#EXTINF:-1,AR: beIN  DTX
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22416.ts
+#EXTINF:-1,AR: Ennahar
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26136.ts
+#EXTINF:-1,AR: Hawacom Music
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22400.ts
+#EXTINF:-1,AR: BEIN SPORT NEWS HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22551.ts
+#EXTINF:-1,AR: BEIN SPORT 1 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22550.ts
+#EXTINF:-1,AR: BEIN SPORT 2 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22549.ts
+#EXTINF:-1,AR: BEIN SPORT 3 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22548.ts
+#EXTINF:-1,AR: BEIN SPORT 4 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22547.ts
+#EXTINF:-1,AR: BEIN SPORT 5 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22546.ts
+#EXTINF:-1,AR: BEIN SPORT 6 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22545.ts
+#EXTINF:-1,AR: BEIN SPORT 7 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22544.ts
+#EXTINF:-1,AR: BEIN SPORT 8 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22543.ts
+#EXTINF:-1,AR: BEIN SPORT 9 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22542.ts
+#EXTINF:-1,AR: BEIN SPORT 10 HD+
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22541.ts
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22540.ts
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22539.ts
+#EXTINF:-1,AR: ON Sport HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/65727.ts
+#EXTINF:-1,AR: ON SPORT TV
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22422.ts
+#EXTINF:-1,AR: ON TV (EGY)
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/56657.ts
+#EXTINF:-1,AR: Nile Sport
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22444.ts
+#EXTINF:-1,OSN:WWE HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26538.ts
+#EXTINF:-1,OSN:SPORT 1
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26546.ts
+#EXTINF:-1,OSN: SPORT 2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26545.ts
+#EXTINF:-1,AR: DMC Sports
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22472.ts
+#EXTINF:-1,AR: MBC Pro Sport 1HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24565.ts
+#EXTINF:-1,AR: MBC Pro Sport 2HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24566.ts
+#EXTINF:-1,AR: MBC Pro Sport 3HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24567.ts
+#EXTINF:-1,AR: Al Kaas 1 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22297.ts
+#EXTINF:-1,AR: Al Kaas 2 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22296.ts
+#EXTINF:-1,AR: Al Kaas 3 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22295.ts
+#EXTINF:-1,AR: AD Sport 2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/26483.ts
+#EXTINF:-1,AR: ALKAS SPORT 4 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/47116.ts
+#EXTINF:-1,AR: Alkass Sport 4 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22287.ts
+#EXTINF:-1,AR: Dubai Racing
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24570.ts
+#EXTINF:-1,AR: DUBAI SPORT 2 HD
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22731.ts
+#EXTINF:-1,AR: Dubai Sport Channel
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22397.ts
+#EXTINF:-1,AR: sharqa sport
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24976.ts
+#EXTINF:-1,AR: Kuwait Sport
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22265.ts
+#EXTINF:-1,AR: Kuwait Sport Plus
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22264.ts
+#EXTINF:-1,AR: karma tv
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22308.ts
+#EXTINF:-1,AR: ktv 2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24973.ts
+#EXTINF:-1,AR: ktv ethraa l
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/24974.ts
+#EXTINF:-1,AR: Kuwait-2
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22263.ts
+#EXTINF:-1,AR: Moga Comedy
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22428.ts
+#EXTINF:-1,AR: National Geo Ad
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22401.ts
+#EXTINF:-1,AR: SAT 7 Kids
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/22306.ts
