@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,########## USA ##########
 #EXTINF:-1,USA:ESPN1
 http://178.132.5.102:8000/live/toni1/toni1/2475.ts
 #EXTINF:-1,USA:ESPN2
@@ -274,5 +275,14 @@ http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4358.ts
 http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4356.ts
 #EXTINF:-1,USA: SYFY
 http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4385.ts
-
-
+#EXTINF:-1,########## ARAB ##########
+#EXTINF:-1,~ Arabic News ~
+http://192.99.35.215:5109/stream
+#EXTINF:-1,Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1,NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
